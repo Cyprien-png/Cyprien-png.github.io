@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "@tailwindcss/line-clamp": "^0.2.1",
+    "chart.js": "^3.5.0",
+    "postcss-cli": "^8.3.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.2.6",
+    "postcss": "^8.3.5",
+    "tailwindcss": "^2.2.4"
+  },
+  "scripts": {
+    "dev": "postcss view/content/css/style.css -o view/content/compiled_css/style.css",
+    "build": "set NODE_ENV=production&&postcss view/content/css/style.css -o view/content/compiled_css/style.css"
+  }
+}
