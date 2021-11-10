@@ -11,7 +11,7 @@ module.exports = {
     },
     extend: { 
       backgroundImage: {
-        'Cypriens-face' : "url('/View/content/images/Cyprien-face-zoom.png')",
+        'Cypriens-face' : "url('\/View/content/images/Cyprien-face-zoom.png')",
       },
       fontFamily: {
       'lato' :['lato'],
