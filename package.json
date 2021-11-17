@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "@splidejs/splide": "^3.5.3",
     "@tailwindcss/line-clamp": "^0.2.1",
     "chart.js": "^3.5.0",
     "postcss-cli": "^8.3.1"
