@@ -6,15 +6,13 @@ module.exports = {
   ],
   darkMode: 'class', // or 'media' or 'class'
   theme: {
-    boxShadow: {
-      outline: '0px 0px 10px 2px yellow',
-    },
     extend: { 
       backgroundImage: {
-        'Cypriens-face' : "url('/View/content/images/Cyprien-face-zoom.png')",
+        'MainVideo': "url('View\\content\\Medias\\Videos\\Shoes.jpg')",
       },
       fontFamily: {
       'lato' :['lato'],
+      'Chakra-Petch' :['Chakra Petch']
      },
 
       maxWidth: {
