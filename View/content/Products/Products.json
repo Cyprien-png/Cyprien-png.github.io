@@ -1,0 +1,50 @@
+[
+    {
+      "id": "1",
+      "name": "Nike Dunk Low UNC",
+      "price": 203,
+      "retail": 101,
+      "description": "Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression. Le Lorem Ipsum est le faux texte",
+      "picture": "dunk-low-blue.webp"
+    },
+    {
+      "id": "2",
+      "name": "Nike Dunk Low Bordeaux",
+      "price": 399,
+      "retail": 107,
+      "description": "Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression. Le Lorem Ipsum est le faux texte",
+      "picture": "dunk-low-green.webp"
+    },
+    {
+      "id": "3",
+      "name": "Nike Dunk Low Disrupt 2 Malachite",
+      "price": 220,
+      "retail": 106,
+      "description": "Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression. Le Lorem Ipsum est le faux texte",
+      "picture": "dunk-low-red.webp"
+    },
+    {
+      "id": "4",
+      "name": "Nike Dunk Low UNC",
+      "price": 203,
+      "retail": 101,
+      "description": "Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression. Le Lorem Ipsum est le faux texte",
+      "picture": "dunk-low-blue.webp"
+    },
+    {
+      "id": "5",
+      "name": "Nike Dunk Low Bordeaux",
+      "price": 399,
+      "retail": 107,
+      "description": "Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression. Le Lorem Ipsum est le faux texte",
+      "picture": "dunk-low-green.webp"
+    },
+    {
+      "id": "6",
+      "name": "Nike Dunk Low Disrupt 2 Malachite",
+      "price": 220,
+      "retail": 106,
+      "description": "Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression. Le Lorem Ipsum est le faux texte",
+      "picture": "dunk-low-red.webp"
+    }
+  ]
